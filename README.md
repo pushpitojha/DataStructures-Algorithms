@@ -11,5 +11,6 @@ Repository containing my solutions to Daily Code Challenge 2021 on Leetcode. Sol
 * [4-Design Circular Queue](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/4_designCircularQueue.java)
 * [5-Global and Loval Inversion](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/5_GlobalAndLocalInversion.java)
 * [6-Minimum operation to make array equal](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/6_MinOperationToMakeArrayEqual.java)
+* [7-Determine if String Halves Are Alike](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/7_halvesAreAlike.java)
 
 
