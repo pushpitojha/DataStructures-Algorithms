@@ -14,6 +14,13 @@ Repository containing my solutions to Daily Code Challenge 2021 on Leetcode. Sol
 * [7-Determine if String Halves Are Alike](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/7_halvesAreAlike.java)
 * [8-Letter Combinations Of Phone Number](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/8_LetterCombinationsOfPhoneNumber_17.java)
 * [9-Verifying An Alien Dictionary](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/9_VerifyingAnAlienDictionary_953.java)
+* [10-Longest Increasing Path in a Matrix](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/10_LongestIncreasingPathMatrix.java)
+* [11-Deepest Leaves Sum](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/11_DeepestLeavesSum_1302.java)
+* [12-Beautiful Arrangement II](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/12_BeautifulArrangementII_667.java)
+* [13-Flatten Nested List Iterator](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/13_FlattenNestedListIterator_341.java)
+* [14-Partition List](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/14_PartitionList_86.java)
+
+
 
 
 
