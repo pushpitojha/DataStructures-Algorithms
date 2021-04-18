@@ -19,7 +19,10 @@ Repository containing my solutions to Daily Code Challenge 2021 on Leetcode. Sol
 * [12-Beautiful Arrangement II](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/12_BeautifulArrangementII_667.java)
 * [13-Flatten Nested List Iterator](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/13_FlattenNestedListIterator_341.java)
 * [14-Partition List](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/14_PartitionList_86.java)
-
+* [15-Fibonacci Number](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/15_Fibonacci_Number_509.java)
+* [16-Remove All Adjacent Duplicates in String II](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/16_RemoveAllAdjacentDuplicates_1209.java)
+* [17-Number of Submatrices That Sum to Target](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/17_NumberOfSubmatricesThatSumToTarget_1074.java)
+* [18-Remove Nth Node From End of List](https://github.com/pushpitojha/Leetcode-Daily-Code-Challenge-2021/blob/main/LeeCode_April2021/18_RemoveNthNodeFromEndOfList_19.java)
 
 
 
